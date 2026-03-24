@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "UncannyKhoaIzah.aternos.me",
+    "ip": "UncannyKhoaIzah.aternos.me:60315",
     "port": 60315,
     "version": "",
     "try-creative": false
